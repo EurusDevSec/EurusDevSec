@@ -32,7 +32,6 @@
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" height="20" />
       <div><sub>Ordering UI/flow tối giản, state gọn.</sub></div>
     </td>
-
     <!-- Lab3_01_iot_led_control_system -->
     <td align="center" width="33%">
       <a href="https://github.com/EurusDFIR/Lab3_01_iot_led_control_system">
@@ -45,7 +44,6 @@
       <img src="https://img.shields.io/badge/IoT-LED-blueviolet" height="20" />
       <div><sub>Điều khiển LED qua app Flutter/IoT lab.</sub></div>
     </td>
-
     <!-- Android_dev_Java -->
     <td align="center" width="33%">
       <a href="https://github.com/EurusDFIR/Android_dev_Java">
@@ -58,9 +56,7 @@
       <img src="https://img.shields.io/badge/Room-android%20ORM-informational" height="20" />
       <div><sub>Android core + thực hành pattern/Room.</sub></div>
     </td>
-
   </tr>
-
   <tr>
     <!-- TaskRiser -->
     <td align="center" width="33%">
@@ -73,7 +69,6 @@
       <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="20" />
       <div><sub>Task API theo hướng clean, dễ mở rộng.</sub></div>
     </td>
-
     <!-- chess-ai -->
     <td align="center" width="33%">
       <a href="https://github.com/EurusDFIR/chess-ai">
@@ -85,7 +80,6 @@
       <img src="https://img.shields.io/badge/Alpha--Beta-Pruning-FF6F61" height="20" />
       <div><sub>UCI-ready engine, heuristic & search tuning.</sub></div>
     </td>
-
     <!-- Competitive-Cpp -->
     <td align="center" width="33%">
       <a href="https://github.com/EurusDFIR/Competitive-Cpp">
@@ -97,7 +91,6 @@
       <img src="https://img.shields.io/badge/DSA-Algorithms-ff69b4" height="20" />
       <div><sub>Bài tập DSA/CP luyện thuật toán.</sub></div>
     </td>
-
   </tr>
 </table>
 
