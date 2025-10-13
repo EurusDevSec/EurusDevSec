@@ -14,7 +14,7 @@
 
 <!-- About me: áp dụng info của bạn -->
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/EurusDFIR/chess-ai">chess-ai</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/EurusDFIR/ecommerce_Microservice">ecommerce-microservice</a></li>
   <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/EurusDFIR/TaskRiser">TaskRiser</a></li>
   <li>📫 How to reach me <strong>hoangslevan@gmail.com</strong></li>
@@ -37,12 +37,13 @@
 <td width="50%" valign="top">
 
 ### 🍔 [OrderFood](https://github.com/EurusDFIR/OrderFood)
+
 [![](https://img.shields.io/github/stars/EurusDFIR/OrderFood?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/OrderFood/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/OrderFood?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/OrderFood/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/OrderFood?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/OrderFood/commits)
 
 **Modern Food Ordering System**  
-Clean UI/UX với state management tối ưu, responsive design và flow đặt hàng mượt mà.
+Clean UI/UX with state management optimize, responsive design and flow smooth order.
 
 **Tech Stack:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -56,30 +57,37 @@ Clean UI/UX với state management tối ưu, responsive design và flow đặt 
 </td>
 <td width="50%" valign="top">
 
-### 📱 [IoT LED Control](https://github.com/EurusDFIR/Lab3_01_iot_led_control_system)
-[![](https://img.shields.io/github/stars/EurusDFIR/Lab3_01_iot_led_control_system?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Lab3_01_iot_led_control_system/stargazers)
-[![](https://img.shields.io/github/forks/EurusDFIR/Lab3_01_iot_led_control_system?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/Lab3_01_iot_led_control_system/network)
-[![](https://img.shields.io/github/last-commit/EurusDFIR/Lab3_01_iot_led_control_system?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/Lab3_01_iot_led_control_system/commits)
+### 🛒 [E-commerce Microservices](https://github.com/EurusDFIR/ecommerce_Microservice)
 
-**Flutter IoT Application**  
-Điều khiển LED thông minh qua Flutter app với ESP32, real-time communication.
+[![](https://img.shields.io/github/stars/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/ecommerce_Microservice/stargazers)
+[![](https://img.shields.io/github/forks/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/ecommerce_Microservice/network)
+[![](https://img.shields.io/github/last-commit/EurusDFIR/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/ecommerce_Microservice/commits)
+
+**Cloud-native Microservices on GCP**  
+Gateway + product/user services, CI/CD → **GKE**, container orchestration, và **PostgreSQL**.
 
 **Tech Stack:**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat-square&logo=espressif&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<a href="https://github.com/EurusDFIR/Lab3_01_iot_led_control_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=Lab3_01_iot_led_control_system&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDFIR/ecommerce_Microservice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDFIR&repo=ecommerce_Microservice&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
+
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
 ### 📱 [Android Dev Java](https://github.com/EurusDFIR/Android_dev_Java)
+
 [![](https://img.shields.io/github/stars/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Android_dev_Java/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/Android_dev_Java/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/Android_dev_Java?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/Android_dev_Java/commits)
@@ -100,6 +108,7 @@ Native Android với Java, Room ORM, MVVM pattern và modern architecture compon
 <td width="50%" valign="top">
 
 ### 🚀 [TaskRiser](https://github.com/EurusDFIR/TaskRiser)
+
 [![](https://img.shields.io/github/stars/EurusDFIR/TaskRiser?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/TaskRiser/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/TaskRiser?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/TaskRiser/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/TaskRiser?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/TaskRiser/commits)
@@ -123,6 +132,7 @@ Clean architecture với TypeScript, Express.js, scalable và dễ maintain.
 <td width="50%" valign="top">
 
 ### ♟️ [Chess AI Engine](https://github.com/EurusDFIR/chess-ai)
+
 [![](https://img.shields.io/github/stars/EurusDFIR/chess-ai?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/chess-ai/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/chess-ai?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/chess-ai/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/chess-ai?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/chess-ai/commits)
@@ -143,6 +153,7 @@ Alpha-Beta pruning, heuristic evaluation, move generation optimization với Pyt
 <td width="50%" valign="top">
 
 ### 💻 [Competitive C++](https://github.com/EurusDFIR/Competitive-Cpp)
+
 [![](https://img.shields.io/github/stars/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=yellow)](https://github.com/EurusDFIR/Competitive-Cpp/stargazers)
 [![](https://img.shields.io/github/forks/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=blue)](https://github.com/EurusDFIR/Competitive-Cpp/network)
 [![](https://img.shields.io/github/last-commit/EurusDFIR/Competitive-Cpp?style=flat&logo=github&color=orange)](https://github.com/EurusDFIR/Competitive-Cpp/commits)
@@ -204,15 +215,6 @@ Solutions cho các bài toán thuật toán, data structures, và competitive pr
   <img src="https://streak-stats.demolab.com?user=EurusDFIR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 </div>
 
-###
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=EurusDFIR&theme=dracula&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
-</div>
-
-###
-
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Activity</h2>
 <div align="center">
@@ -230,11 +232,6 @@ Solutions cho các bài toán thuật toán, data structures, và competitive pr
 </picture>
 
 ###
-
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
 
 ---
 
