@@ -7,14 +7,14 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EurusDevSEc&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EurusDevSec&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ###
 
 <!-- About me: áp dụng info của bạn -->
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/EurusDevSEc/ecommerce_Microservice">ecommerce-microservice</a></li>
+  <li>🔭 I’m currently working on <a href="https://github.com/EurusDevSec/ecommerce_Microservice">ecommerce-microservice</a></li>
   <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/EurusDevSEc/TaskRiser">TaskRiser</a></li>
   <li>📫 How to reach me <strong>hoangslevan@gmail.com</strong></li>
@@ -36,11 +36,11 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [vibraGuard](https://github.com/EurusDevSEc/vibraGuard)
+### 🛡️ [vibraGuard](https://github.com/EurusDevSec/vibraGuard)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/vibraGuard?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/vibraGuard/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/vibraGuard?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/vibraGuard/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/vibraGuard?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/vibraGuard/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/vibraGuard?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/vibraGuard/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/vibraGuard?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/vibraGuard/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/vibraGuard?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/vibraGuard/commits)
 
 **📖 About**
 VibraGuard AI is a cutting-edge security system that solves the chronic false alarm problem of traditional vibration sensors. Instead of simple threshold-based detection, VibraGuard uses TinyML (Tiny Machine Learning) running directly on an ESP32-C3 microcontroller to intelligently classify vibrations as:
@@ -56,18 +56,18 @@ VibraGuard AI is a cutting-edge security system that solves the chronic false al
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<a href="https://github.com/EurusDevSEc/vibraGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=vibraGuard&theme=dracula&hide_border=true" width="100%" alt="vibraGuard preview" />
+<a href="https://github.com/EurusDevSec/vibraGuard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=vibraGuard&theme=dracula&hide_border=true" width="100%" alt="vibraGuard preview" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 [E-commerce Microservices](https://github.com/EurusDevSEc/ecommerce_Microservice)
+### 🛒 [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/ecommerce_Microservice/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/ecommerce_Microservice/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/ecommerce_Microservice/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/ecommerce_Microservice/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/ecommerce_Microservice/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/ecommerce_Microservice/commits)
 
 **Cloud-native Microservices on GCP**  
 Gateway + product/user services, CI/CD → **GKE**, container orchestration, và **PostgreSQL**.
@@ -81,8 +81,8 @@ Gateway + product/user services, CI/CD → **GKE**, container orchestration, và
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<a href="https://github.com/EurusDevSEc/ecommerce_Microservice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=ecommerce_Microservice&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDevSec/ecommerce_Microservice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=ecommerce_Microservice&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
@@ -92,11 +92,11 @@ Gateway + product/user services, CI/CD → **GKE**, container orchestration, và
 <tr>
 <td width="50%" valign="top">
 
-### 📱 [Android Dev Java](https://github.com/EurusDevSEc/Android_dev_Java)
+### 📱 [Android Dev Java](https://github.com/EurusDevSec/Android_dev_Java)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/Android_dev_Java/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/Android_dev_Java?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/Android_dev_Java/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/Android_dev_Java?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/Android_dev_Java/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/Android_dev_Java/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/Android_dev_Java/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/Android_dev_Java/commits)
 
 **Android Development Practice**  
 Native Android với Java, Room ORM, MVVM pattern và modern architecture components.
@@ -106,18 +106,18 @@ Native Android với Java, Room ORM, MVVM pattern và modern architecture compon
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<a href="https://github.com/EurusDevSEc/Android_dev_Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=Android_dev_Java&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDevSec/Android_dev_Java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=Android_dev_Java&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 [TaskRiser](https://github.com/EurusDevSEc/TaskRiser)
+### 🚀 [TaskRiser](https://github.com/EurusDevSec/TaskRiser)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/TaskRiser?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/TaskRiser/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/TaskRiser?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/TaskRiser/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/TaskRiser?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/TaskRiser/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/TaskRiser?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/TaskRiser/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/TaskRiser?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/TaskRiser/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/TaskRiser?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/TaskRiser/commits)
 
 **RESTful Task Management API**  
 Clean architecture với TypeScript, Express.js, scalable và dễ maintain.
@@ -127,8 +127,8 @@ Clean architecture với TypeScript, Express.js, scalable và dễ maintain.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<a href="https://github.com/EurusDevSEc/TaskRiser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=TaskRiser&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDevSec/TaskRiser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=TaskRiser&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
@@ -137,11 +137,11 @@ Clean architecture với TypeScript, Express.js, scalable và dễ maintain.
 <tr>
 <td width="50%" valign="top">
 
-### ♟️ [Chess AI Engine](https://github.com/EurusDevSEc/chess-ai)
+### ♟️ [Chess AI Engine](https://github.com/EurusDevSec/chess-ai)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/chess-ai?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/chess-ai/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/chess-ai?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/chess-ai/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/chess-ai?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/chess-ai/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/chess-ai?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/chess-ai/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/chess-ai?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/chess-ai/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/chess-ai?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/chess-ai/commits)
 
 **UCI-Compatible Chess Engine**  
 Alpha-Beta pruning, heuristic evaluation, move generation optimization với Python.
@@ -151,18 +151,18 @@ Alpha-Beta pruning, heuristic evaluation, move generation optimization với Pyt
 ![AI](https://img.shields.io/badge/Chess_Engine-UCI-8A2BE2?style=flat-square)
 ![Algorithm](https://img.shields.io/badge/Alpha--Beta-Pruning-FF6F61?style=flat-square)
 
-<a href="https://github.com/EurusDevSEc/chess-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=chess-ai&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDevSec/chess-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=chess-ai&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🍔 [OrderFood](https://github.com/EurusDevSEc/OrderFood)
+### 🍔 [OrderFood](https://github.com/EurusDevSec/OrderFood)
 
-[![](https://img.shields.io/github/stars/EurusDevSEc/OrderFood?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSEc/OrderFood/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSEc/OrderFood?style=flat&logo=github&color=blue)](https://github.com/EurusDevSEc/OrderFood/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSEc/OrderFood?style=flat&logo=github&color=orange)](https://github.com/EurusDevSEc/OrderFood/commits)
+[![](https://img.shields.io/github/stars/EurusDevSec/OrderFood?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/OrderFood/stargazers)
+[![](https://img.shields.io/github/forks/EurusDevSec/OrderFood?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/OrderFood/network)
+[![](https://img.shields.io/github/last-commit/EurusDevSec/OrderFood?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/OrderFood/commits)
 
 **Modern Food Ordering System**  
 Clean UI/UX with state management optimize, responsive design and flow smooth order.
@@ -172,8 +172,8 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<a href="https://github.com/EurusDevSEc/OrderFood">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSEc&repo=OrderFood&theme=dracula&hide_border=true" width="100%" />
+<a href="https://github.com/EurusDevSec/OrderFood">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=OrderFood&theme=dracula&hide_border=true" width="100%" />
 </a>
 
 </td>
@@ -193,13 +193,13 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 <!-- Contact & Social -->
 <h2 align="center">📫 Connect With Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/hoang-EurusDevSEc/" target="_blank">
+  <a href="https://www.linkedin.com/in/hoang-EurusDevSec/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:hoangslevan@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://github.com/EurusDevSEc" target="_blank">
+  <a href="https://github.com/EurusDevSec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
 </div>
@@ -209,8 +209,8 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 <!-- GitHub Stats & Languages -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EurusDevSEc&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSEc&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="170" alt="languages graph" />
 </div>
 
 ###
@@ -218,13 +218,13 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 <!-- Streak & Trophies -->
 <h2 align="center">🔥 Contribution Streak</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EurusDevSEc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=EurusDevSec&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 </div>
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Contribution Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EurusDevSEc&theme=dracula&hide_border=false&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EurusDevSec&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 </div>
 
 ###
@@ -232,9 +232,9 @@ Clean UI/UX with state management optimize, responsive design and flow smooth or
 <!-- Pacman contribution graph: đã đổi sang username của bạn.
      LƯU Ý: cần thiết lập GitHub Action tương ứng trong repo của bạn để render ảnh này. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EurusDevSEc/EurusDevSEc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDevSEc/EurusDevSEc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EurusDevSEc/EurusDevSEc/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
