@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="1_banner.png" alt="EurusDevSec Banner" width="100%" />
+<img src="assets/1_banner.png" alt="EurusDevSec Banner" width="100%" />
 
 <br>
 
@@ -42,7 +42,7 @@ Currently, I am improving my skills in:
 
 <div align="center">
 
-<img src="2_teckstack.png" alt="Tech Stack Banner" width="100%" />
+<img src="assets/2_teckstack.png" alt="Tech Stack Banner" width="100%" />
 
 <br><br>
 
@@ -82,7 +82,7 @@ Currently, I am improving my skills in:
 
 <div align="center">
 
-<img src="3_featureProject.png" alt="Featured Projects Banner" width="100%" />
+<img src="assets/3_featureProject.png" alt="Featured Projects Banner" width="100%" />
 
 </div>
 
@@ -143,7 +143,7 @@ Currently, I am improving my skills in:
 
 <div align="center">
 
-<img src="5_want_to_connect.png" alt="Want to Connect Banner" width="100%" />
+<img src="assets/5_want_to_connect.png" alt="Want to Connect Banner" width="100%" />
 
 <br><br>
 
