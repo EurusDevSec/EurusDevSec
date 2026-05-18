@@ -1,246 +1,123 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5C07B&center=true&vCenter=true&width=940&lines=Hey%20%F0%9F%91%8B%20I%27m%20Hoang%20%7C%20EurusDevSec%3BDevSecOps%20%26%20Cloud-Native%20Engineer%20%F0%9F%9B%A1%EF%B8%8F%F0%9F%92%BB%3BBuilding%20Scalable%20Applications%20%F0%9F%9A%80%3BOpen%20Source%20Enthusiast%20%E2%9C%A8" alt="Typing SVG" />
+
+<img src="assets/1_banner.png" alt="banner" width="800px">
+
+# E U R U S D E V S E C
+
+**DevSecOps & Cloud-Native Engineer**
+
+`DevOps` · `DevSecOps` · `Cloud-Native` · `Platform Engineering`
+
+_Building Scalable Applications & Open Source Enthusiast_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-EurusDevSec/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EurusDevSec)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hoangslevan@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=hashnode&logoColor=white)](https://eurusdev.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://www.eurusdev.me/about)
+[![Top Committer](https://img.shields.io/badge/Top_Committer-Vietnam-FF5722?style=flat-square&logo=github&logoColor=white)](https://user-badge.committers.top/vietnam/EurusDevSec)
+
 </div>
 
-###
+---
 
-<!-- Profile Views Counter -->
+**_I build scalable cloud infrastructures, secure cloud-native applications, and deploy robust microservices. I am currently focusing on DevOps methodologies and the Cloud-Native ecosystem._**
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EurusDevSec&style=for-the-badge&color=E5C07B&label=Profile+Views" alt="Profile Views" />
+
+<img src="assets/2_teckstack.png" alt="tech" width="800px">
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
-###
+---
 
-<!-- About me: áp dụng info của bạn -->
-<ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/EurusDevSec/ecommerce_Microservice">ecommerce-microservice</a></li>
-  <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
-  <li>👯 I’m looking to collaborate on <a href="https://github.com/EurusDevSEc/TaskRiser">TaskRiser</a></li>
-  <li>📫 How to reach me <strong>hoangslevan@gmail.com</strong></li>
-  <li>⚡ Fun fact <em>I think I am not funny</em></li>
-</ul>
+## 📂 Featured Projects
 
-###
+<div align="center">
 
-<!-- Pinned Projects -->
-<h2 align="center">🔥 Featured Projects</h2>
+<img src="assets/3_featureProject.png" alt="projects" width="800px">
+
+**🛡️ Security, DevOps & Microservices**
+
+| Project                                                                           | Description                                                               |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [vibraGuard](https://github.com/EurusDevSec/vibraGuard)                           | AI security system classifying vibrations using TinyML on ESP32-C3        |
+| [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice) | Cloud-native Microservices on GCP (Gateway + GKE + PostgreSQL)            |
+| [TaskRiser](https://github.com/EurusDevSec/TaskRiser)                             | RESTful Task Management API with Clean Architecture in TypeScript/Node.js |
+
+**📱 Additional Development**
+
+| Project                                                             | Description                                                        |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Android Dev Java](https://github.com/EurusDevSec/Android_dev_Java) | Native Android apps with Java, Room ORM, MVVM pattern              |
+| [Chess AI Engine](https://github.com/EurusDevSec/chess-ai)          | UCI-Compatible Chess Engine with Alpha-Beta pruning in Python      |
+| [OrderFood](https://github.com/EurusDevSec/OrderFood)               | Modern Food Ordering System with TypeScript, Next.js, and Tailwind |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img 
+  src="https://komarev.com/ghpvc/?username=EurusDevSec&style=for-the-badge&label=Profile+Views&color=00A884&labelColor=004D40" 
+  alt="Profile Views" 
+/>
+
+<br><br>
+
 <p align="center">
-  <em>Explore my most impactful work across different domains</em>
+  <a href="https://github.com/EurusDevSec">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&icon_color=C8A45D&ring_color=00A884" 
+      width="430" 
+      alt="EurusDevSec GitHub Stats" 
+    />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=006F5D00&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40&date_format=M%20j%5B%2C%20Y%5D" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </p>
 
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [vibraGuard](https://github.com/EurusDevSec/vibraGuard)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/vibraGuard?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/vibraGuard/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/vibraGuard?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/vibraGuard/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/vibraGuard?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/vibraGuard/commits)
-
-**📖 About**
-VibraGuard AI is a cutting-edge security system that solves the chronic false alarm problem of traditional vibration sensors. Instead of simple threshold-based detection, VibraGuard uses TinyML (Tiny Machine Learning) running directly on an ESP32-C3 microcontroller to intelligently classify vibrations as:
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-FF6F61?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-<a href="https://github.com/EurusDevSec/vibraGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=vibraGuard&theme=dracula&hide_border=true" width="100%" alt="vibraGuard preview" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/ecommerce_Microservice/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/ecommerce_Microservice/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/ecommerce_Microservice?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/ecommerce_Microservice/commits)
-
-**Cloud-native Microservices on GCP**  
-Gateway + product/user services, CI/CD → **GKE**, container orchestration, và **PostgreSQL**.
-
-**Tech Stack:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-<a href="https://github.com/EurusDevSec/ecommerce_Microservice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=ecommerce_Microservice&theme=dracula&hide_border=true" width="100%" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [Android Dev Java](https://github.com/EurusDevSec/Android_dev_Java)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/Android_dev_Java/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/Android_dev_Java/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/Android_dev_Java?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/Android_dev_Java/commits)
-
-**Android Development Practice**  
-Native Android với Java, Room ORM, MVVM pattern và modern architecture components.
-
-**Tech Stack:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-<a href="https://github.com/EurusDevSec/Android_dev_Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=Android_dev_Java&theme=dracula&hide_border=true" width="100%" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [TaskRiser](https://github.com/EurusDevSec/TaskRiser)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/TaskRiser?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/TaskRiser/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/TaskRiser?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/TaskRiser/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/TaskRiser?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/TaskRiser/commits)
-
-**RESTful Task Management API**  
-Clean architecture với TypeScript, Express.js, scalable và dễ maintain.
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-<a href="https://github.com/EurusDevSec/TaskRiser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=TaskRiser&theme=dracula&hide_border=true" width="100%" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ♟️ [Chess AI Engine](https://github.com/EurusDevSec/chess-ai)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/chess-ai?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/chess-ai/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/chess-ai?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/chess-ai/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/chess-ai?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/chess-ai/commits)
-
-**UCI-Compatible Chess Engine**  
-Alpha-Beta pruning, heuristic evaluation, move generation optimization với Python.
-
-**Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Chess_Engine-UCI-8A2BE2?style=flat-square)
-![Algorithm](https://img.shields.io/badge/Alpha--Beta-Pruning-FF6F61?style=flat-square)
-
-<a href="https://github.com/EurusDevSec/chess-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=chess-ai&theme=dracula&hide_border=true" width="100%" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍔 [OrderFood](https://github.com/EurusDevSec/OrderFood)
-
-[![](https://img.shields.io/github/stars/EurusDevSec/OrderFood?style=flat&logo=github&color=yellow)](https://github.com/EurusDevSec/OrderFood/stargazers)
-[![](https://img.shields.io/github/forks/EurusDevSec/OrderFood?style=flat&logo=github&color=blue)](https://github.com/EurusDevSec/OrderFood/network)
-[![](https://img.shields.io/github/last-commit/EurusDevSec/OrderFood?style=flat&logo=github&color=orange)](https://github.com/EurusDevSec/OrderFood/commits)
-
-**Modern Food Ordering System**  
-Clean UI/UX with state management optimize, responsive design and flow smooth order.
-
-**Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<a href="https://github.com/EurusDevSec/OrderFood">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EurusDevSec&repo=OrderFood&theme=dracula&hide_border=true" width="100%" />
-</a>
-
-</td>
-</tr>
-</table>
 </div>
-
-###
-
-<!-- Tech icons: giữ style mẫu, có thể đổi bộ icon nếu muốn -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,nodejs,ts,nextjs,tailwind,postgres,mongodb,docker,kubernetes,gcp,linux,git" height="60" alt="tech stack icons" />
-</div>
-
-###
-
-<!-- Contact & Social -->
-<h2 align="center">📫 Connect With Me</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/hoang-EurusDevSec/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:hoangslevan@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://github.com/EurusDevSec" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<!-- GitHub Stats & Languages -->
-<h2 align="center">📊 GitHub Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="170" alt="languages graph" />
-</div>
-
-###
-
-<!-- Streak & Trophies -->
-<h2 align="center">🔥 Contribution Streak</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EurusDevSec&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-</div>
-
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EurusDevSec&theme=dracula&hide_border=false&area=true" alt="activity graph" />
-</div>
-
-###
-
-<!-- Pacman contribution graph: đã đổi sang username của bạn.
-     LƯU Ý: cần thiết lập GitHub Action tương ứng trong repo của bạn để render ảnh này. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+
+_Like my work? Support it._
+
+<img src="assets/5_want_to_connect.png" alt="connect" width="800px">
+
+<br><br>
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/EurusDevSec)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/EurusDevSec)
+
 </div>
