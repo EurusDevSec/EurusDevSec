@@ -8,7 +8,7 @@
 
 ### DevSecOps & Cloud-Native Engineer
 
-`DevOps` · `DevSecOps` · `Cloud-Native` · `Platform Engineering` · `Open Source`
+`DevOps` · `DevSecOps` · `Cloud-Native` · `Platform Engineering` · `SRE`
 
 **Building scalable cloud infrastructure, secure cloud-native applications, and reliable DevOps platforms.**
 
@@ -24,17 +24,7 @@
 
 ---
 
-## 👋 About Me
-
-I am a **DevSecOps & Cloud-Native Engineer** focused on building scalable infrastructure, secure deployment pipelines, and reliable cloud-native systems.
-
-Currently, I am improving my skills in:
-
-- Cloud infrastructure and automation
-- Kubernetes, containers, and GitOps
-- Secure CI/CD pipelines
-- Microservices architecture
-- Monitoring, observability, and platform engineering
+***I architect production-grade cloud platforms, build zero-trust security pipelines, and engineer self-healing Kubernetes systems that solve real enterprise problems — from multi-cluster governance to automated FinOps. I publish open-source DevOps & Cloud-Native tooling and write technical content for the community.***
 
 ---
 
@@ -66,13 +56,20 @@ Currently, I am improving my skills in:
 ![Jenkins](https://img.shields.io/badge/Jenkins-00A884?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-C8A45D?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 🛠️ Infrastructure, Monitoring & Development
+### 🛡️ Security & Policy
+
+![Trivy](https://img.shields.io/badge/Trivy-006F5D?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-004D40?style=for-the-badge&logo=vault&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-00A884?style=for-the-badge&logo=openpolicyagent&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-C8A45D?style=for-the-badge&logo=falco&logoColor=white)
+
+### 🛠️ Infrastructure, Monitoring & Observability
 
 ![Terraform](https://img.shields.io/badge/Terraform-006F5D?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-004D40?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-00A884?style=for-the-badge&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-C8A45D?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-006F5D?style=for-the-badge&logo=mlflow&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-C8A45D?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Python](https://img.shields.io/badge/Python-006F5D?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -86,21 +83,51 @@ Currently, I am improving my skills in:
 
 </div>
 
-### 🛡️ Security, DevOps & Microservices
+> **💡 Philosophy:** Every project below solves a **real enterprise pain point** — not a tutorial demo. Each is designed with production-grade architecture, comprehensive documentation, and measurable business outcomes.
 
-| Project                                                                           | Description                                                         | Tech Focus                     |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------ |
-| [vibraGuard](https://github.com/EurusDevSec/vibraGuard)                           | AI security system classifying vibrations using TinyML on ESP32-C3  | TinyML, Security, IoT          |
-| [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice) | Cloud-native microservices on GCP with Gateway, GKE, and PostgreSQL | GCP, Kubernetes, Microservices |
-| [TaskRiser](https://github.com/EurusDevSec/TaskRiser)                             | RESTful Task Management API using Clean Architecture                | TypeScript, Node.js, API       |
+### 🔧 DevOps & Infrastructure
+
+| Project | Description |
+|---|---|
+| [Multi-Cloud GitOps Fleet Manager](https://github.com/EurusDevSec/gitops-fleet-manager) | Manage 50+ Kubernetes clusters across AWS/Azure/GCP with unified GitOps governance, automatic drift detection & remediation |
+| [Zero-Trust CI/CD Fortress](https://github.com/EurusDevSec/zerotrust-cicd-fortress) | End-to-end secure pipeline with artifact signing, SBOM generation, runtime vulnerability correlation & policy-as-code gates |
+| [Cloud FinOps Autopilot](https://github.com/EurusDevSec/cloud-finops-autopilot) | Automated cloud cost governance — real-time anomaly detection, idle resource cleanup, Savings Plan optimizer & chargeback dashboards |
+
+### 🏗️ Platform Engineering & SRE
+
+| Project | Description |
+|---|---|
+| [Internal Developer Platform (IDP)](https://github.com/EurusDevSec/developer-platform-idp) | Self-service developer portal with golden path templates, automated environment provisioning & embedded security guardrails |
+| [Kubernetes Resilience Engine](https://github.com/EurusDevSec/k8s-resilience-engine) | Self-healing K8s with chaos engineering integration, SLO-driven auto-rollback, automated runbook execution & Game Day framework |
+| [Unified Observability Platform](https://github.com/EurusDevSec/unified-observability-platform) | Full-stack observability with OpenTelemetry, intelligent alerting, SLO dashboards & AI-assisted root cause analysis |
 
 ### 📱 Additional Development
 
-| Project                                                             | Description                                                | Tech Focus                    |
-| ------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------- |
-| [Android Dev Java](https://github.com/EurusDevSec/Android_dev_Java) | Native Android applications using Java, Room ORM, and MVVM | Android, Java, MVVM           |
-| [Chess AI Engine](https://github.com/EurusDevSec/chess-ai)          | UCI-compatible chess engine with Alpha-Beta pruning        | Python, AI, Algorithm         |
-| [OrderFood](https://github.com/EurusDevSec/OrderFood)               | Modern food ordering system using Next.js and Tailwind CSS | Next.js, TypeScript, Tailwind |
+| Project | Description |
+|---|---|
+| [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice) | Cloud-native microservices on GCP with Gateway, GKE, and PostgreSQL |
+| [vibraGuard](https://github.com/EurusDevSec/vibraGuard) | AI security system classifying vibrations using TinyML on ESP32-C3 |
+
+---
+
+## 🌐 Learning Hub
+
+<div align="center">
+
+<img src="assets/4_learninghub.png" alt="Learning Hub Banner" width="800px" />
+
+</div>
+
+> **📚 Curated learning paths** — from zero to production. Each path includes hands-on labs, real-world scenarios, and certification prep.
+
+| Resource | Description |
+|---|---|
+| [☁️ AWS Solutions Architect Path](learning-hub/aws-solutions-architect.md) | VPC design, multi-account strategy, Well-Architected Framework, SAA-C03 prep |
+| [🚀 Kubernetes Mastery](learning-hub/kubernetes-mastery.md) | From pods to production — CKA/CKAD prep, multi-cluster, service mesh, operators |
+| [🔐 DevSecOps Engineering](learning-hub/devsecops-engineering.md) | Shift-smart security, supply chain hardening, compliance automation, SBOM |
+| [🏗️ Terraform & IaC at Scale](learning-hub/terraform-iac-at-scale.md) | Module design, state management, CI/CD integration, multi-cloud patterns |
+| [📊 SRE & Observability](learning-hub/sre-observability.md) | SLI/SLO/SLA, incident management, chaos engineering, OpenTelemetry |
+| [💰 FinOps Practitioner](learning-hub/finops-practitioner.md) | Cloud economics, cost allocation, optimization strategies, FinOps certification |
 
 ---
 
@@ -147,7 +174,7 @@ Currently, I am improving my skills in:
 
 <br><br>
 
-**Let’s build, secure, and automate cloud-native systems together.**
+**Let's build, secure, and automate cloud-native systems together.**
 
 <br>
 
