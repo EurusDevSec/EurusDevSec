@@ -22,11 +22,13 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&animation=twinkling" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00A884&width=750&lines=💻+Architecting+production-grade+cloud+platforms+%7C+Zero-trust+security+pipelines+%7C+Self-healing+K8s)](https://git.io/typing-svg)
 
 **_I architect production-grade cloud platforms, build zero-trust security pipelines, and engineer self-healing Kubernetes systems that solve real enterprise problems — from multi-cluster governance to automated FinOps. I publish open-source DevOps & Cloud-Native tooling and write technical content for the community._**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer&animation=twinkling" width="100%" />
 
 ## ⚡ Tech Stack & Tools
 
@@ -87,26 +89,26 @@
 
 ### 🔧 DevOps & Infrastructure
 
-| Project                                                                                 | Description                                                                                                                          |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Multi-Cloud GitOps Fleet Manager](https://github.com/EurusDevSec/gitops-fleet-manager) | Manage 50+ Kubernetes clusters across AWS/Azure/GCP with unified GitOps governance, automatic drift detection & remediation          |
-| [Zero-Trust CI/CD Fortress](https://github.com/EurusDevSec/zerotrust-cicd-fortress)     | End-to-end secure pipeline with artifact signing, SBOM generation, runtime vulnerability correlation & policy-as-code gates          |
-| [Cloud FinOps Autopilot](https://github.com/EurusDevSec/cloud-finops-autopilot)         | Automated cloud cost governance — real-time anomaly detection, idle resource cleanup, Savings Plan optimizer & chargeback dashboards |
+| Project | Description |
+|---|---|
+| [Multi-Cloud GitOps Fleet Manager](https://github.com/EurusDevSec/gitops-fleet-manager) | Manage 50+ Kubernetes clusters across AWS/Azure/GCP with unified GitOps governance, automatic drift detection & remediation |
+| [Zero-Trust CI/CD Fortress](https://github.com/EurusDevSec/zerotrust-cicd-fortress) | End-to-end secure pipeline with artifact signing, SBOM generation, runtime vulnerability correlation & policy-as-code gates |
+| [Cloud FinOps Autopilot](https://github.com/EurusDevSec/cloud-finops-autopilot) | Automated cloud cost governance — real-time anomaly detection, idle resource cleanup, Savings Plan optimizer & chargeback dashboards |
 
 ### 🏗️ Platform Engineering & SRE
 
-| Project                                                                                         | Description                                                                                                                     |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Internal Developer Platform (IDP)](https://github.com/EurusDevSec/developer-platform-idp)      | Self-service developer portal with golden path templates, automated environment provisioning & embedded security guardrails     |
-| [Kubernetes Resilience Engine](https://github.com/EurusDevSec/k8s-resilience-engine)            | Self-healing K8s with chaos engineering integration, SLO-driven auto-rollback, automated runbook execution & Game Day framework |
-| [Unified Observability Platform](https://github.com/EurusDevSec/unified-observability-platform) | Full-stack observability with OpenTelemetry, intelligent alerting, SLO dashboards & AI-assisted root cause analysis             |
+| Project | Description |
+|---|---|
+| [Internal Developer Platform (IDP)](https://github.com/EurusDevSec/developer-platform-idp) | Self-service developer portal with golden path templates, automated environment provisioning & embedded security guardrails |
+| [Kubernetes Resilience Engine](https://github.com/EurusDevSec/k8s-resilience-engine) | Self-healing K8s with chaos engineering integration, SLO-driven auto-rollback, automated runbook execution & Game Day framework |
+| [Unified Observability Platform](https://github.com/EurusDevSec/unified-observability-platform) | Full-stack observability with OpenTelemetry, intelligent alerting, SLO dashboards & AI-assisted root cause analysis |
 
 ### 📱 Additional Development
 
-| Project                                                                           | Description                                                         |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Project | Description |
+|---|---|
 | [E-commerce Microservices](https://github.com/EurusDevSec/ecommerce_Microservice) | Cloud-native microservices on GCP with Gateway, GKE, and PostgreSQL |
-| [vibraGuard](https://github.com/EurusDevSec/vibraGuard)                           | AI security system classifying vibrations using TinyML on ESP32-C3  |
+| [vibraGuard](https://github.com/EurusDevSec/vibraGuard) | AI security system classifying vibrations using TinyML on ESP32-C3 |
 
 ---
 
@@ -174,6 +176,24 @@
   alt="Top Languages" 
 />
 
+<br><br>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=EurusDevSec&bg_color=00000000&color=00A884&line=006F5D&point=C8A45D&area=true&area_color=004D40&hide_border=true" 
+  width="900"
+  alt="Contribution Graph" 
+/>
+
+<br>
+
+<!-- Snake animation — generated by GitHub Actions (.github/workflows/snake.yml) -->
+<!-- Push to GitHub first, then run the workflow manually once to generate the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/EurusDevSec/EurusDevSec/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -202,3 +222,5 @@ _Like my work? Support it._
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-C8A45D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/EurusDevSec)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling&fontColor=00A884&fontSize=16&text=Thanks+for+visiting!&desc=Let%27s+build+the+future+of+cloud+together&descSize=12&descAlignY=75" width="100%" />
