@@ -133,6 +133,13 @@
 
 ## 📊 GitHub Stats
 
+<!-- 
+  ⚠️ NOTE: If stats/top-langs cards break again, self-host your own instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to Vercel with your GitHub PAT as env var PAT_1
+  3. Replace the URL below with your-instance.vercel.app
+-->
+
 <div align="center">
 
 <img 
@@ -142,12 +149,25 @@
 
 <br><br>
 
-[![EurusDevSec GitHub Stats](https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&hide_border=true&theme=transparent&title_color=00A884&text_color=FFFFFF&icon_color=C8A45D)](https://github.com/EurusDevSec)
-[![GitHub Streak](https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&theme=transparent&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40)](https://github.com/EurusDevSec)
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=EurusDevSec&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&icon_color=C8A45D&ring_color=00A884&cache_seconds=86400" 
+  width="430" 
+  alt="EurusDevSec GitHub Stats" 
+/>
 
-<br>
+<img 
+  src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=006F5D00&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40&date_format=M%20j%5B%2C%20Y%5D" 
+  width="430"
+  alt="GitHub Streak" 
+/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&theme=transparent&title_color=00A884&text_color=FFFFFF)](https://github.com/EurusDevSec)
+<br><br>
+
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&cache_seconds=86400" 
+  width="430" 
+  alt="Top Languages" 
+/>
 
 </div>
 
