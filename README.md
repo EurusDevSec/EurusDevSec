@@ -114,20 +114,25 @@
 
 <div align="center">
 
-<img src="assets/4_learninghub.png" alt="Learning Hub Banner" width="800px" />
+![AWS](https://img.shields.io/badge/AWS-SAA--C03-006F5D?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA%2FCKAD-004D40?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-CKS%2FCDP-00A884?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Associate-C8A45D?style=for-the-badge&logo=terraform&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-Observability-006F5D?style=for-the-badge&logo=prometheus&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-Practitioner-004D40?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
 > **📚 Curated learning paths** — from zero to production. Each path includes hands-on labs, real-world scenarios, and certification prep.
 
-| Resource                                                                   | Description                                                                     |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [☁️ AWS Solutions Architect Path](learning-hub/aws-solutions-architect.md) | VPC design, multi-account strategy, Well-Architected Framework, SAA-C03 prep    |
-| [🚀 Kubernetes Mastery](learning-hub/kubernetes-mastery.md)                | From pods to production — CKA/CKAD prep, multi-cluster, service mesh, operators |
-| [🔐 DevSecOps Engineering](learning-hub/devsecops-engineering.md)          | Shift-smart security, supply chain hardening, compliance automation, SBOM       |
-| [🏗️ Terraform & IaC at Scale](learning-hub/terraform-iac-at-scale.md)      | Module design, state management, CI/CD integration, multi-cloud patterns        |
-| [📊 SRE & Observability](learning-hub/sre-observability.md)                | SLI/SLO/SLA, incident management, chaos engineering, OpenTelemetry              |
-| [💰 FinOps Practitioner](learning-hub/finops-practitioner.md)              | Cloud economics, cost allocation, optimization strategies, FinOps certification |
+| Resource | Description |
+|---|---|
+| [☁️ AWS Solutions Architect Path](learning-hub/aws-solutions-architect.md) | VPC design, multi-account strategy, Well-Architected Framework, SAA-C03 prep |
+| [🚀 Kubernetes Mastery](learning-hub/kubernetes-mastery.md) | From pods to production — CKA/CKAD prep, multi-cluster, service mesh, operators |
+| [🔐 DevSecOps Engineering](learning-hub/devsecops-engineering.md) | Shift-smart security, supply chain hardening, compliance automation, SBOM |
+| [🏗️ Terraform & IaC at Scale](learning-hub/terraform-iac-at-scale.md) | Module design, state management, CI/CD integration, multi-cloud patterns |
+| [📊 SRE & Observability](learning-hub/sre-observability.md) | SLI/SLO/SLA, incident management, chaos engineering, OpenTelemetry |
+| [💰 FinOps Practitioner](learning-hub/finops-practitioner.md) | Cloud economics, cost allocation, optimization strategies, FinOps certification |
 
 ---
 
@@ -156,7 +161,7 @@
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=006F5D00&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40&date_format=M%20j%5B%2C%20Y%5D" 
+  src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=00000000&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40&date_format=M%20j%5B%2C%20Y%5D" 
   width="430"
   alt="GitHub Streak" 
 />
@@ -164,7 +169,7 @@
 <br><br>
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&cache_seconds=86400" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&cache_seconds=86400&langs_count=6" 
   width="430" 
   alt="Top Languages" 
 />
