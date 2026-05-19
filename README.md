@@ -6,7 +6,7 @@
 
 # E U R U S D E V S E C
 
-### DevSecOps & Cloud-Native Engineer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00A884&center=true&vCenter=true&width=600&lines=DevSecOps+%26+Cloud-Native+Engineer;Platform+Engineer+%7C+SRE;Kubernetes+%26+GitOps+Architect;Cloud+Infrastructure+Engineer;Security+Pipeline+Specialist;FinOps+%26+Reliability+Engineer)](https://git.io/typing-svg)
 
 `DevOps` · `DevSecOps` · `Cloud-Native` · `Platform Engineering` · `SRE`
 
