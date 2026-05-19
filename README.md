@@ -143,13 +143,13 @@
 <br><br>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF&icon_color=C8A45D&ring_color=00A884" 
+  src="https://github-readme-stats.vercel.app/api?username=EurusDevSec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00A884&text_color=FFFFFF&icon_color=C8A45D&ring_color=00A884" 
   width="430" 
   alt="EurusDevSec GitHub Stats" 
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=006F5D00&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40&date_format=M%20j%5B%2C%20Y%5D" 
+  src="https://streak-stats.demolab.com?user=EurusDevSec&hide_border=true&background=0D111700&ring=00A884&fire=C8A45D&currStreakNum=FFFFFF&sideNums=C8A45D&currStreakLabel=00A884&sideLabels=FFFFFF&dates=B8FFF1&stroke=004D40" 
   width="430"
   alt="GitHub Streak" 
 />
@@ -157,7 +157,7 @@
 <br><br>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&bg_color=00000000&title_color=00A884&text_color=FFFFFF" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EurusDevSec&layout=compact&hide_border=true&bg_color=0D1117&title_color=00A884&text_color=FFFFFF" 
   width="430" 
   alt="Top Languages" 
 />
